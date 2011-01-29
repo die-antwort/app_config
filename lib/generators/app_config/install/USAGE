@@ -1,0 +1,13 @@
+Description:
+    Creates directory 'config/app_config' with example config files for the 
+    default environments (development, production, and test).
+
+    To create config files for additional environments (like staging), specify 
+    these environments as arguments.
+
+Example:
+    `rails generate app_config:install staging`
+
+    Creates app_config files for development, production, test and staging
+    environments.
+

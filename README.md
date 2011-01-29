@@ -2,7 +2,7 @@
 
 Simple application configuration for Ruby on Rails. Uses plain ruby, no YAML or databases involved. Requires Rails 3.
 
-Based on code posted by Mark Johnson in http://www.railsatwork.com/2010/11/simple-approach-for-application.html.
+Based on code posted by Mark Johnson: http://www.railsatwork.com/2010/11/simple-approach-for-application.html
 
 
 ## Installation

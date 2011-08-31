@@ -1,2 +1,5 @@
+0.0.2
+* Updated gemspec to make app_config compatible with Rails 3.1.
+
 0.0.1
 * Initial release.

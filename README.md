@@ -1,3 +1,11 @@
+# No longer maintained
+
+This project is no longer maintained.
+
+The recommended way for custom configuration is now to simply use `Rails.config.x` or `Rails.config` – see https://guides.rubyonrails.org/configuring.html#custom-configuration
+
+----
+
 # AppConfig
 
 Simple application configuration for Ruby on Rails. Uses plain ruby, no YAML or databases involved. Requires Rails 3.
